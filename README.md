@@ -1,6 +1,7 @@
 # HI_Bread
 This is talking robot project using arduino, Appinventer, talkie Library, SPI Communication.
-![20181226_215623](https://user-images.githubusercontent.com/72431775/184181796-0812dc98-7059-4df6-99d9-4c94bb4561da.jpg)
+![image](https://user-images.githubusercontent.com/72431775/184183259-66240bd4-f7e4-4901-902a-f445256bda15.png)
+![image](https://user-images.githubusercontent.com/72431775/184183183-60e3052c-b155-4b4e-a774-e839019d2c26.png)
 
 ### Working video
 https://youtu.be/xRVLUAyI50E
